@@ -118,9 +118,4 @@ The following tools and libraries were used for this project:
    - Open the notebook file.
    - Run all the cells. 
 
- ***
-
-  
-### License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+ 
