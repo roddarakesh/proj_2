@@ -11,7 +11,6 @@
 7. [Next Steps](#next-steps)
 8. [Tools and Libraries](#tools-and-libraries)
 9. [How To Run](#how-to-run)
-10. [License](#license)
 
 ---
 
