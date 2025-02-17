@@ -101,7 +101,7 @@ The following tools and libraries were used for this project:
 - **NumPy**: Numerical computations.
 - **Scikit-learn**: Machine learning model training and evaluation.
 - **Matplotlib & Seaborn**: Data visualization.
-- **Jupyter Notebooks**: Interactive development and documentation.
+- **Google Colab**: Interactive development and documentation.
 - **ChatGPT**: Synthetic dataset generation.
 
 ---
@@ -112,7 +112,7 @@ The following tools and libraries were used for this project:
    - Download the dataset.   
 
 3. **Open the Application**  
-   - Launch the Jupyter Notebook.  
+   - Launch the Google Colab.  
 
 4. **Run the Notebook**  
    - Open the notebook file.
