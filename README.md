@@ -75,7 +75,7 @@ The analysis revealed several key insights:
    
 2. **Model Performance**: Classification models such as Decision Trees and Random Forests showed moderate performance, indicating a need for more robust data or advanced modeling techniques.
 
-3. **Feature Importance**: Certain features, such as **Relationship_Status** and **Personal_Interest**, had a significant impact on predictions, while others, like **Gift_Popularity**, were less influential.
+3. **Feature Importance**: Certain features, such as **Relationship Status** and **Personal Interest**, had a significant impact on predictions, while others, like **Gift Popularity**, were less influential.
 
 4. **Future Potential**: Despite the limitations, the project demonstrated the feasibility of using machine learning for personalized gift recommendations. Future work could focus on refining the dataset, exploring deep learning approaches, and developing a user-friendly interface.
 
