@@ -111,7 +111,7 @@ The following tools and libraries were used for this project:
    - Download the [dataset](data/valentine_gift.csv).
       
 2. **Open the Application**  
-   - Launch the Google Colab.
+   - Launch Google Colab.
 
 3. **Run the Notebook**  
    - Open the notebook file.
