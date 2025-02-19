@@ -107,13 +107,13 @@ The following tools and libraries were used for this project:
 
 ### How To Run
 
-2. **Prepare the Dataset**  
+1. **Prepare the Dataset**  
    - Download the dataset.   
 
-3. **Open the Application**  
+2. **Open the Application**  
    - Launch the Google Colab.  
 
-4. **Run the Notebook**  
+3. **Run the Notebook**  
    - Open the notebook file.
    - Run all the cells. 
 
