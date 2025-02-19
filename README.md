@@ -108,13 +108,14 @@ The following tools and libraries were used for this project:
 ### How To Run
 
 1. **Prepare the Dataset**  
-   - Download the dataset.   
-
+   - Download the [dataset](data/valentine_gift.csv).
+      
 2. **Open the Application**  
-   - Launch the Google Colab.  
+   - Launch Google Colab.
 
 3. **Run the Notebook**  
    - Open the notebook file.
+   - Import Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, [dataset](data/valentine_gift.csv). 
    - Run all the cells. 
 
  
