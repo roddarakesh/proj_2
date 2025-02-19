@@ -71,7 +71,7 @@ A machine learning approach was employed, focusing on classification models to p
 
 The analysis revealed several key insights:
 
-1. **Dataset Limitations**: The synthetic dataset, while useful for initial experimentation, did not yield highly accurate predictions. Initial model accuracy was around **17%**, improving to just under **60%** in later iterations, and culminating in a final version with an accuracy of **97%**
+1. **Dataset Limitations**: The synthetic dataset, while useful for initial experimentation, did not yield highly accurate predictions. Initial model accuracy was around **17%**, improving to just under **60%** in later iterations, and culminating in a final version with an accuracy of **97%**.
    
 2. **Model Performance**: Classification models such as Decision Trees and Random Forests showed moderate performance initially, indicating a need for more robust data or advanced modeling techniques. Optimization yields feeble results on such poorly-performing models, so we returned to the data. After further data refinement, focusing on pattern generation and trainable redundancy, an eventual accurancy score of **97%** was reached. 
 
