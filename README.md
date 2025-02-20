@@ -8,13 +8,12 @@
 4. [Research Approach](#research-approach)
 5. [Datasets](#datasets)
 6. [Analysis and Conclusion](#analysis-and-conclusion)
-7. [Next Steps](#next-steps)
-8. [Tools and Libraries](#tools-and-libraries)
-9. [How To Run](#how-to-run)
+7. [Demo]#demo
+8. [Next Steps](#next-steps)
+9. [Tools and Libraries](#tools-and-libraries)
+10. [How To Run](#how-to-run)
 
 ---
-
-
 
 ### Contributors
 ![Contributors' photos](backup/team-picture.pptx.png)
@@ -26,7 +25,6 @@
 This project aims to develop a machine learning model to assist individuals in selecting a Valentine's Day gift based on various recipient characteristics. Despite extensive research, no suitable publicly available dataset was found. Therefore, a synthetic dataset was generated using ChatGPT and refined through multiple iterations. The project explores the feasibility of using machine learning for personalized gift recommendations and evaluates the performance of various classification models.
 
 The ultimate goal is to provide a tool that enhances the gift-giving experience by leveraging data-driven insights. While the initial results were below expectations, the project lays the groundwork for future improvements, including dataset refinement, advanced modeling techniques, and the development of a user-friendly interface.
-
 
 ---
 
@@ -79,6 +77,14 @@ The analysis revealed several key insights:
 3. **Feature Importance**: Certain features, such as **Relationship Status** and **Personal Interest**, had a significant impact on predictions, while others, like **Gift Popularity**, were less influential.
 
 4. **Future Potential**: Despite the limitations, the project demonstrated the feasibility of using machine learning for personalized gift recommendations. Future work could focus on refining the dataset, exploring deep learning approaches, and developing a user-friendly interface.
+
+---
+
+### Demo
+
+Watch the demo video [here](https://vimeo.com/1058422509/26c8057dd0?share=copy).
+
+[![Video Thumbnail](backup/demo-thumbnail.png)](https://vimeo.com/1058422509/26c8057dd0?share=copy)
 
 ---
 
