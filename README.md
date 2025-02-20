@@ -19,8 +19,6 @@
 ### Contributors
 ![Contributors' photos](backup/team-picture.pptx.png)
 
-(Left to Right) Gabe Galley, Leonard Forrester, Leslie Bland, Rakesh, Sophak So, and Yujing Li
-
 ---
 
 ### Executive Summary
