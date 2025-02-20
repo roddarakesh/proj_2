@@ -8,7 +8,7 @@
 4. [Research Approach](#research-approach)
 5. [Datasets](#datasets)
 6. [Analysis and Conclusion](#analysis-and-conclusion)
-7. [Demo]#demo
+7. [Demo](#demo)
 8. [Next Steps](#next-steps)
 9. [Tools and Libraries](#tools-and-libraries)
 10. [How To Run](#how-to-run)
