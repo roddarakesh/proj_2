@@ -14,6 +14,8 @@
 
 ---
 
+![Contributors' photos](backup/team-picture.pptx.png)
+
 ### Contributors
 
 Gabe Galley, Leonard Forrester, Leslie Bland, Rakesh, Sophak So, Yujing Li, and TA Deborah Aina
