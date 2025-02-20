@@ -14,11 +14,12 @@
 
 ---
 
-![Contributors' photos](backup/team-picture.pptx.png)
+
 
 ### Contributors
+![Contributors' photos](backup/team-picture.pptx.png)
 
-Gabe Galley, Leonard Forrester, Leslie Bland, Rakesh, Sophak So, Yujing Li, and TA Deborah Aina
+(Left to Right) Gabe Galley, Leonard Forrester, Leslie Bland, Rakesh, Sophak So, and Yujing Li
 
 ---
 
